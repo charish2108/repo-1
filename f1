@@ -1,3 +1,7 @@
 HELLO f1 FILE
 SAMPLE DATA WITH MASTER BRANCH
+<<<<<<< Updated upstream
 SAMPLE DATA WITH MAIN-1 BRANCH
+=======
+helllllooooo
+>>>>>>> Stashed changes
